@@ -1,0 +1,6 @@
+[submodule "algorithm20180725"]
+	path = algorithm20180725
+	url = git@github.com:longhao666/algorithm20180725.git
+[submodule "dataStructure20180725"]
+	path = dataStructure20180725
+	url = git@github.com:longhao666/dataStructure20180725.git

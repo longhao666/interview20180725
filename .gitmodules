@@ -4,3 +4,6 @@
 [submodule "dataStructure20180725"]
 	path = dataStructure20180725
 	url = git@github.com:longhao666/dataStructure20180725.git
+[submodule "bitset20180728"]
+	path = bitset20180728
+	url = git@github.com:longhao666/bitset20180728.git
